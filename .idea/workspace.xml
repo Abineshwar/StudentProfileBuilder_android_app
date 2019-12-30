@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4a80da6-c1b3-48e6-b4ad-bf7a617fab0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/InClass03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/androidTest/java/com/example/rabin/inclass03/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/java/com/example/rabin/inclass03/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/java/com/example/rabin/inclass03/SecondActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/java/com/example/rabin/inclass03/ThirdActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable/avatar_f_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable/avatar_f_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable/avatar_f_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable/avatar_m_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable/avatar_m_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable/avatar_m_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/drawable/select_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/layout/activity_second.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/layout/activity_third.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/app/src/test/java/com/example/rabin/inclass03/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inclass03/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -246,12 +198,21 @@
       <option name="presentableId" value="Default" />
       <updated>1577745252991</updated>
     </task>
+    <task id="LOCAL-00001" summary="StudentProfilerBuilder_app">
+      <created>1577747225517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577747225518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.23560767" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.23560767" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -262,12 +223,16 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32981783" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Assistant" visible="true" weight="0.23933902" />
       <window_info anchor="right" id="Palette&#9;" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="StudentProfilerBuilder_app" />
+    <option name="LAST_COMMIT_MESSAGE" value="StudentProfilerBuilder_app" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/inclass03/app/src/main/java/com/example/rabin/inclass03/MainActivity.java">
