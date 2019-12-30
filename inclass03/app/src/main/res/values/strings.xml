@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Student Profile Builder</string>
+    <string name="iv_selectimage" />
+    <string name="tv_myavatar">My Avatar</string>
+    <string name="et_firstname">First Name</string>
+    <string name="et_lastname">Last Name</string>
+    <string name="et_studentid">Student ID</string>
+    <string name="tv_department">Department:</string>
+    <string name="rb_cs">CS</string>
+    <string name="rb_sis">SIS</string>
+    <string name="rb_bio">BIO</string>
+    <string name="rb_other">Other</string>
+    <string name="b_save">Save</string>
+    <string name="iv_avatarf1" />
+    <string name="iv_avatarf2" />
+    <string name="iv_avatarf3" />
+    <string name="iv_avatarm1" />
+    <string name="iv_avatarm2" />
+    <string name="iv_avatarm3" />
+    <string name="iv_2" />
+    <string name="tv_name">Name:</string>
+    <string name="tv_studentid">Student ID:</string>
+    <string name="b_edit">Edit</string>
+</resources>

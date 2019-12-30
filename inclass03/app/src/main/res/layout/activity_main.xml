@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/iv_selectimage"
+        android:layout_width="106dp"
+        android:layout_height="109dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        app:srcCompat="@drawable/select_image" />
+
+    <TextView
+        android:id="@+id/tv_myavatar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_selectimage"
+        android:layout_centerHorizontal="true"
+        android:text="@string/tv_myavatar" />
+
+    <EditText
+        android:id="@+id/et_firstname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/et_lastname"
+        android:layout_alignEnd="@+id/tv_myavatar"
+        android:layout_marginBottom="-235dp"
+        android:ems="10"
+        android:hint="@string/et_firstname"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/et_lastname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/tv_myavatar"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="240dp"
+        android:ems="10"
+        android:hint="@string/et_lastname"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/et_studentid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/tv_myavatar"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="228dp"
+        android:ems="10"
+        android:hint="@string/et_studentid"
+        android:inputType="number"
+        android:maxLength="9" />
+
+    <TextView
+        android:id="@+id/tv_department"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/et_firstname"
+        android:layout_marginBottom="192dp"
+        android:text="@string/tv_department"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="129dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_cs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rb_cs" />
+
+        <RadioButton
+            android:id="@+id/rb_sis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rb_sis" />
+
+        <RadioButton
+            android:id="@+id/rb_bio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rb_bio" />
+
+        <RadioButton
+            android:id="@+id/rb_other"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rb_other" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/b_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="57dp"
+        android:text="@string/b_save" />
+</RelativeLayout>
